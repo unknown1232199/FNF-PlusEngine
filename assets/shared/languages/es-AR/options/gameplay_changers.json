@@ -2,7 +2,7 @@
   "$schema": 1,
   "$namespace": "options.gameplay_changers",
   "scrolltype": {
-    "name": "Tipo de desplazamiento",
+    "name": "Tipo de scroll",
     "values": {
       "multiplicative": "Multiplicativo",
       "constant": "Constante"
@@ -12,22 +12,22 @@
     "name": "Velocidad de notas"
   },
   "songspeed": {
-    "name": "Velocidad de reproducción"
+    "name": "Velocidad de la canción"
   },
   "preservepitch": {
-    "name": "Conservar tono de voz"
+    "name": "tono de voz"
   },
   "healthgain": {
-    "name": "Multiplicador de ganancia de vida"
+    "name": "Multiplicar ganancia de vida"
   },
   "healthloss": {
-    "name": "Multiplicador de pérdida de vida"
+    "name": "Multiplicar pérdida de vida"
   },
   "instakill": {
-    "name": "Perder inmediatamente al fallar"
+    "name": "Fallas y moris"
   },
   "practice": {
-    "name": "Modo de práctica"
+    "name": "Práctica"
   },
   "perfect": {
     "name": "Modo perfecto"
@@ -36,7 +36,7 @@
     "name": "El oponente drena vida"
   },
   "nodroppenalty": {
-    "name": "Sin penalización al soltar notas"
+    "name": "Sin penalizar al soltar notas"
   },
   "botplay": {
     "name": "Botplay"
