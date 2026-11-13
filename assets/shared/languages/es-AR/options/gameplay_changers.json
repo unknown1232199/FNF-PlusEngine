@@ -15,7 +15,7 @@
     "name": "Velocidad de la canción"
   },
   "preservepitch": {
-    "name": "tono de voz"
+    "name": "Tono de voz"
   },
   "healthgain": {
     "name": "Multiplicar ganancia de vida"
@@ -33,7 +33,7 @@
     "name": "Modo perfecto"
   },
   "opponentdrain": {
-    "name": "El oponente drena vida"
+    "name": "rival te drena tu vida"
   },
   "nodroppenalty": {
     "name": "Sin penalizar al soltar notas"
